@@ -20,7 +20,7 @@
 
 - **[AI Business Transformation](https://ai-business-transformation-nine.vercel.app)** — 業務選定、標準化、人間による確認、効果測定を考える知見の入口。[Repository](https://github.com/Josh-Temple/ai-business-transformation)。初期コンテンツであり、顧客への導入実績を示すものではありません。
 - **[Studio Lab](https://josh-temple.github.io/studio-lab-research/)** — 公開可能な研究・プロジェクト・方法の案内。[Repository](https://github.com/Josh-Temple/studio-lab-research)。研究の採否基準・公開範囲を確認できます。非公開の運用ログを公開するものではありません。
-- **[Instant Radio](https://github.com/Josh-Temple/instant-radio)** — 貼り付けた文章をブラウザの読み上げで連続再生する小さなWeb実装。キュー、端末内保存、長文分割、PWAの設計を確認できます。生成AI音声APIは使用していません。
+- **[Instant Radio — 公開デモ](https://josh-temple.github.io/instant-radio/)** — 貼り付けた文章をブラウザの読み上げで連続再生する小さなWeb実装。[Repository](https://github.com/Josh-Temple/instant-radio)でキュー、端末内保存、長文分割、PWAの設計を確認できます。生成AI音声APIは使用していません。
 
 ## AI活用と品質管理の見方
 
