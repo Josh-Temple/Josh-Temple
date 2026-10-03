@@ -6,6 +6,8 @@
 
 **Public-sector practitioner exploring digital transformation, AI-enabled workflow design, research, implementation and verification.**
 
+**[LinkedIn — 職業的背景](https://www.linkedin.com/in/yoshitaka-terada-a4b917145/)** / **[公開Portfolio](https://ai-business-transformation-nine.vercel.app)**
+
 ## まず見る3件
 
 | プロジェクト / 公開サイト | 問題と取り組み | Repositoryで確認できること |
