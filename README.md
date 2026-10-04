@@ -16,6 +16,8 @@
 | [公共AI調達](https://josh-temple.github.io/public-sector-ai-procurement-japan/) | 自治体の生成AI調達を、仕様・質疑・評価・公開結果まで一次資料で比較 | [出典・有効要件・証拠の限界、CI、比較実験](https://github.com/Josh-Temple/public-sector-ai-procurement-japan) |
 | [Can AI Do This?](https://josh-temple.github.io/can-ai-do-this/) | 「この作業をAIでできるか」を、条件と根拠付きで判断できる形へ | [タスク中心の情報設計、公式資料と実測の区別、鮮度監視](https://github.com/Josh-Temple/can-ai-do-this) |
 
+[公共AI調達のケーススタディ](https://josh-temple.github.io/public-sector-ai-procurement-japan/case-study.html) — 仕様書と質疑をつなぐ問題設定・設計・検証を具体例で確認できます。
+
 ## 業務設計・研究・小さな実装
 
 - **[AI Business Transformation](https://ai-business-transformation-nine.vercel.app)** — 業務選定、標準化、人間による確認、効果測定を考える知見の入口。[Repository](https://github.com/Josh-Temple/ai-business-transformation)。初期コンテンツであり、顧客への導入実績を示すものではありません。
